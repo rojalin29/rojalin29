@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rojalin Parida</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+
 
 - 🌱 I’m currently learning **Data Analytics**
 
