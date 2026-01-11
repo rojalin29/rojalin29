@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rojalin Parida</h1>
 
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Google Cloud Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/rosalin2904](https://www.datascienceportfol.io/rosalin2904)
 
